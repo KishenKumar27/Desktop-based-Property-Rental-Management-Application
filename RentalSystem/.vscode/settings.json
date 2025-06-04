@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dinamarini/Desktop/OOAD/Source Code 2/commons-csv-1.9.0/commons-csv-1.9.0-sources.jar",
+        "/Users/dinamarini/Desktop/OOAD/Source Code 2/commons-csv-1.9.0/commons-csv-1.9.0.jar",
+        "commons-csv-1.9.0-sources.jar",
+        "commons-csv-1.9.0.jar"
+    ]
+}
